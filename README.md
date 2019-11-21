@@ -1,4 +1,4 @@
-credits: https://github.com/hrt and me only for menu.
+credits: https://github.com/hrt and me only for forking the old version
 
 # Gold Standard Powered WheelChair
 Christmas is early,
@@ -10,4 +10,4 @@ Note: certain features have been removed but it should still destroy
 4. Turn on and off hacks. Press INS to close menu.
 5. Hold ALT to move menu.
 6. Don't forget to click Save....
-7. Tacos
+7. Animos
